@@ -1,10 +1,3 @@
-//
-//  main.c
-//  address.c
-//
-//  Created by 松山　春佑 on 2018.12/31.
-//  Copyright © 2018 松山　春佑. All rights reserved.
-//
 
 #include <stdio.h>
 #include <string.h>
